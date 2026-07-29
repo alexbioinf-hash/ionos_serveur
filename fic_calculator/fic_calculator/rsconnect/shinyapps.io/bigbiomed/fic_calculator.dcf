@@ -1,0 +1,12 @@
+name: fic_calculator
+title: fic_calculator
+username: bigbiomed
+account: bigbiomed
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14019515
+bundleId: 12332335
+url: https://bigbiomed.shinyapps.io/fic_calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
